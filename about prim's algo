@@ -1,0 +1,9 @@
+Prim’s algorithm is a greedy 
+algorithm that finds the minimum
+ spanning tree (MST) for a connected, 
+weighted graph. It starts from a random
+ vertex and grows the MST by adding the 
+smallest edge that connects a vertex 
+inside the MST to a vertex outside it. 
+The process repeats until all 
+vertices are included in the MST.
